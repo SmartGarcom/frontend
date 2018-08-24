@@ -1,10 +1,5 @@
 # frontend
 
-Para utiliazr este repositório:
-    git clone
-    cd SmartGarcom
-    python main.py
-
 # Manutencao deste repo
 Usando git-flow: https://jeffkreeftmeijer.com/git-flow/
 
